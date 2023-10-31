@@ -36,5 +36,10 @@ namespace ITExpertsEraAugust2023
         {
             Console.WriteLine("Speed of the car is " + pressure);
         }
+
+        public void NewTestMethod()
+        {
+            Console.WriteLine("This is new test method");
+        }
     }
 }
